@@ -1,15 +1,9 @@
 # PooCodeView
-图形验证码，本地校验图形验证码，🌄 随机验证码图文校验，图文校验,提升安全性,防止移动App验证码被盗刷,频繁登录等;
+图形验证码，本地校验图形验证码，🌄 随机验证码图文校验，图文校验,提升安全性频繁登录等;
 
-![](https://github.com/xiaohange/PooCodeView/blob/master/v1.gif?raw=true)
 
-## 更新记录
-- 1.0.0 基础版本提交 1.0.0  (2017.07.24)
 
-## Installation
 
-1. Drag all source files under floder `PooCodeView` to your project.
-2. pod "PooCodeView"
 
 ## Usage
 
@@ -36,20 +30,7 @@
     
     [self.view addSubview:_pooCodeView];
 ```
-## Other
-[JQTumblrHud-高仿Tumblr App 加载指示器hud](https://github.com/xiaohange/JQTumblrHud)
 
-[JQScrollNumberLabel：仿tumblr热度滚动数字条数](https://github.com/xiaohange/JQScrollNumberLabel)
-
-[TumblrLikeAnimView-仿Tumblr点赞动画效果](https://github.com/xiaohange/TumblrLikeAnimView)
-
-[JQMenuPopView-仿Tumblr弹出视图发音频、视频、图片、文字的视图](https://github.com/xiaohange/JQMenuPopView)
-
-## Star
-
-[CSDN博客](http://blog.csdn.net/qq_31810357) 
-
-iOS开发者交流群：446310206 喜欢就❤️❤️❤️star一下吧！你的支持是我更新的动力！ Love is every every every star! Your support is my renewed motivation!
 
 
 ## License
